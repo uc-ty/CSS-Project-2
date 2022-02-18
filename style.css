@@ -58,6 +58,7 @@ textarea {
   width: 25px;
   border: none;
   background-color: red;
+ 
 }
 .help__btn {
   background-image: url("./Image/help.png");
@@ -115,4 +116,5 @@ span > button {
 .footer {
   float: right;
   padding: 0 2px 2.5px 0;
+  margin-bottom: 7px;
 }
