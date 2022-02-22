@@ -10,7 +10,7 @@
   align-items: center;
 }
 .main-container {
-  width: 400px;
+  width: 395px;
   box-sizing: border-box;
   border: 2px solid blue;
   justify-content: center;
@@ -30,7 +30,7 @@ textarea {
   display: flex;
   justify-content: space-between;
   height: 32.5px;
-  width: 396px;
+  width: 393px;
   align-items: center;
   padding: 5px;
   background-color: rgb(0, 91, 242);
@@ -46,9 +46,9 @@ textarea {
   text-shadow: 1px 1px #0f1089;
   border-radius: 10px 10px 0 0;
 }
-.title__btn {
-  margin: -4px;
-}
+/* .title__btn {
+  margin: 0px;
+} */
 
 .close__btn {
   background-image: url("./Image/close.svg");
@@ -58,14 +58,13 @@ textarea {
   width: 25px;
   border: none;
   background-color: red;
- 
 }
 .help__btn {
   background-image: url("./Image/help.png");
   background-size: contain;
   height: 25px;
   width: 25px;
-  margin: -3px;
+  margin: 0px;
   border: none;
 }
 .display__container {
